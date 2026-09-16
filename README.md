@@ -1,5 +1,7 @@
-# thu
+# Felicia Natania
 
 
-# "#" buat bikin title
-gak ada # = tulisan biasa
+# Work Experience
+
+# Educational Background
+Business Administration
