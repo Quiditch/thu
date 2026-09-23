@@ -10,7 +10,7 @@ Bachelor of Business Administration - Prasetiya Mulya University | 2021 - 2025
 
 
 # Computer Skills
-Google Antigravity
-GitHub
-Git
-Python
+- Google Antigravity
+- GitHub
+- Git
+- Python
