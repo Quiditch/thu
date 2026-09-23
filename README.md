@@ -14,3 +14,4 @@ Bachelor of Business Administration - Prasetiya Mulya University | 2021 - 2025
 - GitHub
 - Git
 - Python
+- SQL
