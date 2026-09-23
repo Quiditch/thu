@@ -1,8 +1,9 @@
-# Felicia Natania 7789
+# Felicia Natania
 
 
 # Work Experience
 Relationship Manager Intern - Permata Bank    | Sep 2025 - Dec 2025
+Market Research Intern - Sinar Mas Land       | Feb 2025 - Jul 2025
 
 
 # Educational Background
